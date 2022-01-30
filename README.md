@@ -7,6 +7,9 @@ This ledger allows bank partners to conduct financial transactions and to verify
 ---
 ## Streamlit
 
+To install Streamlit library, open your '''terminal''' window and be sure to be in you '''dev''' virtual environment.  Run the following command
+'''pip install streamlit'''
+
 ---
 ## Contributors
 Christina San Diego
